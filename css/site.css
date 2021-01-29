@@ -1,13 +1,25 @@
 
-/* color palette : */
+/* color palettes : */
+/* soft black : */
+/* Hex	RGB */
+/* #414a4c	(65,74,76) */
+/* #3b444b	(59,68,75) */
+/* #353839	(53,56,57) */
+/* #232b2b	(35,43,43) */
+/* #0e1111	(14,17,17) */
+
+/* space grey */
+/* Hex	RGB */
 /* #343d46	(52,61,70) */
 /* #4f5b66	(79,91,102) */
 /* #65737e	(101,115,126) */
 /* #a7adba	(167,173,186) */
 /* #c0c5ce	(192,197,206) */
 
+
+
 body {
-  background-color: #343d46;
+  background-color: #0e1111;
 }
 
 img.resize {
@@ -22,7 +34,18 @@ img.resize {
 /* font-size: 60px; */
 /* } */
 
+p.subtitle {
+	font-family:courier;
+	color: #a7adba;
+	text-align: center;
+	font-size: 20px;
+	position: absolute;
+	top: 300px;
+	left: 800px;
+}
+
 p.intro {
+	font-family:courier;
 	color: #a7adba;
 	text-align: left;
 	font-size: 20px;
@@ -32,6 +55,7 @@ p.intro {
 }
 
 h1{
+	font-family:courier;
 	white-space: nowrap;
 	color: #c0c5ce;
 	text-align: center;
