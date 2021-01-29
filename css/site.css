@@ -1,0 +1,45 @@
+
+/* color palette : */
+/* #343d46	(52,61,70) */
+/* #4f5b66	(79,91,102) */
+/* #65737e	(101,115,126) */
+/* #a7adba	(167,173,186) */
+/* #c0c5ce	(192,197,206) */
+
+body {
+  background-color: #343d46;
+}
+
+img.resize {
+	max-height:1200px;
+	position: absolute;
+	top: 800px;
+	left: 400px;
+}
+
+/* body{ */
+/* color: #a7adba; */
+/* font-size: 60px; */
+/* } */
+
+p.intro {
+	color: #a7adba;
+	text-align: left;
+	font-size: 60px;
+	position: absolute;
+	position: absolute;
+	top: 1200px;
+	left: 3200px;
+}
+
+h1{
+	white-space: nowrap;
+	color: #c0c5ce;
+	text-align: center;
+	font-size: 120px;
+	position: absolute;
+	top: 800px;
+	left: 3200px;
+}
+
+
