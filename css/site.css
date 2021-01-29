@@ -11,10 +11,10 @@ body {
 }
 
 img.resize {
-	max-height:1200px;
+	max-height:300px;
 	position: absolute;
-	top: 800px;
-	left: 400px;
+	top: 200px;
+	left: 200px;
 }
 
 /* body{ */
@@ -25,21 +25,20 @@ img.resize {
 p.intro {
 	color: #a7adba;
 	text-align: left;
-	font-size: 60px;
+	font-size: 20px;
 	position: absolute;
-	position: absolute;
-	top: 1200px;
-	left: 3200px;
+	top: 300px;
+	left: 800px;
 }
 
 h1{
 	white-space: nowrap;
 	color: #c0c5ce;
 	text-align: center;
-	font-size: 120px;
+	font-size: 40px;
 	position: absolute;
-	top: 800px;
-	left: 3200px;
+	top: 200px;
+	left: 800px;
 }
 
 
